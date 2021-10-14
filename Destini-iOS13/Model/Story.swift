@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+struct Story {
+    let title: String
+    let choice1: String
+    let choice2: String
+    
+//    let stories = [
+//    Story(title: "You see a fork in the road.", choice1: "Take a left.", choice2: "Take a right.")
+//    ]
+}
